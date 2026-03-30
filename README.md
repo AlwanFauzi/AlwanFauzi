@@ -72,8 +72,9 @@ Recommendation system using both **Content-Based Filtering** and **Collaborative
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwanFauzi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="165" alt="AlwanFauzi GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwanFauzi&layout=compact&langs_count=8&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-13-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/AlwanFauzi?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/AlwanFauzi/AlwanFauzi?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile updated" />
 </p>
 
 <p align="center">
@@ -84,36 +85,10 @@ Recommendation system using both **Content-Based Filtering** and **Collaborative
 
 ## Selected Repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [finalfixpkl](https://github.com/AlwanFauzi/finalfixpkl)
-YOLOv8-based catfish seed detection and size clustering with K-Means, complete with training artifacts and evaluation outputs.
-
-</td>
-<td width="50%" valign="top">
-
-### [idCamp-dashboard-HR](https://github.com/AlwanFauzi/idCamp-dashboard-HR)
-Employee attrition analytics project with risk scoring, processed datasets, and a Metabase dashboard for HR monitoring.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [idCamp-Dashboard-Jaya-Institut](https://github.com/AlwanFauzi/idCamp-Dashboard-Jaya-Institut)
-Student dropout early warning project with dashboarding and a Streamlit prediction app.
-
-</td>
-<td width="50%" valign="top">
-
-### [DBS-Sistem-Rekomendasi](https://github.com/AlwanFauzi/DBS-Sistem-Rekomendasi)
-Movie recommendation system using Content-Based Filtering and Collaborative Filtering.
-
-</td>
-</tr>
-</table>
+- [**finalfixpkl**](https://github.com/AlwanFauzi/finalfixpkl) — YOLOv8-based catfish seed detection and size clustering with K-Means, complete with training artifacts and evaluation outputs.
+- [**idCamp-dashboard-HR**](https://github.com/AlwanFauzi/idCamp-dashboard-HR) — Employee attrition analytics project with risk scoring, processed datasets, and a Metabase dashboard for HR monitoring.
+- [**idCamp-Dashboard-Jaya-Institut**](https://github.com/AlwanFauzi/idCamp-Dashboard-Jaya-Institut) — Student dropout early warning project with dashboarding and a Streamlit prediction app.
+- [**DBS-Sistem-Rekomendasi**](https://github.com/AlwanFauzi/DBS-Sistem-Rekomendasi) — Movie recommendation system using Content-Based Filtering and Collaborative Filtering.
 
 ---
 
