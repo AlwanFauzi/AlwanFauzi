@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hi, I'm Mohammad Alwan Fauzi
+<h1>Hi, I'm Mohammad Alwan Fauzi</h1>
 
-**Information Technology Student at Universitas Brawijaya**  
-**Data Analyst Intern at Lab Sistem Cerdas, FILKOM UB**
+<p><strong>IT Undergraduate at Brawijaya University | Data and Machine Learning Enthusiast</strong></p>
 
-I build **machine learning**, **computer vision**, **data analytics**, and **dashboarding** projects that are meant to be useful, reproducible, and easy to evaluate.
+<p>
+I build <strong>machine learning</strong>, <strong>computer vision</strong>, <strong>data analytics</strong>, and <strong>dashboarding</strong> projects that are meant to be useful, reproducible, and easy to evaluate.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-alwan-fauzi/) • [GitHub](https://github.com/AlwanFauzi)
+<p>
+<a href="https://www.linkedin.com/in/mohammad-alwan-fauzi/">LinkedIn</a> •
+<a href="https://github.com/AlwanFauzi">GitHub</a>
+</p>
 
 </div>
 
@@ -67,33 +71,49 @@ Recommendation system using both **Content-Based Filtering** and **Collaborative
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwanFauzi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="165" alt="AlwanFauzi GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwanFauzi&layout=compact&langs_count=8&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=AlwanFauzi&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwanFauzi&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlwanFauzi&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 ---
 
-## Selected Repository Cards
+## Selected Repositories
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/AlwanFauzi/finalfixpkl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlwanFauzi&repo=finalfixpkl" />
-</a>
-<a href="https://github.com/AlwanFauzi/idCamp-dashboard-HR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlwanFauzi&repo=idCamp-dashboard-HR" />
-</a>
-<a href="https://github.com/AlwanFauzi/idCamp-Dashboard-Jaya-Institut">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlwanFauzi&repo=idCamp-Dashboard-Jaya-Institut" />
-</a>
-<a href="https://github.com/AlwanFauzi/DBS-Sistem-Rekomendasi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlwanFauzi&repo=DBS-Sistem-Rekomendasi" />
-</a>
+### [finalfixpkl](https://github.com/AlwanFauzi/finalfixpkl)
+YOLOv8-based catfish seed detection and size clustering with K-Means, complete with training artifacts and evaluation outputs.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### [idCamp-dashboard-HR](https://github.com/AlwanFauzi/idCamp-dashboard-HR)
+Employee attrition analytics project with risk scoring, processed datasets, and a Metabase dashboard for HR monitoring.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [idCamp-Dashboard-Jaya-Institut](https://github.com/AlwanFauzi/idCamp-Dashboard-Jaya-Institut)
+Student dropout early warning project with dashboarding and a Streamlit prediction app.
+
+</td>
+<td width="50%" valign="top">
+
+### [DBS-Sistem-Rekomendasi](https://github.com/AlwanFauzi/DBS-Sistem-Rekomendasi)
+Movie recommendation system using Content-Based Filtering and Collaborative Filtering.
+
+</td>
+</tr>
+</table>
 
 ---
 
