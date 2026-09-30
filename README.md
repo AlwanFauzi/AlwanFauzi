@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Mohammad Alwan Fauzi</h1>
 
-<p><strong>IT Undergraduate at Brawijaya University | Data and Machine Learning Enthusiast</strong></p>
+<p><strong>IT Fresh Graduate at Brawijaya University | Data and Machine Learning Enthusiast</strong></p>
 
 <p>
 I build <strong>machine learning</strong>, <strong>computer vision</strong>, <strong>data analytics</strong>, and <strong>dashboarding</strong> projects that are meant to be useful, reproducible, and easy to evaluate.
